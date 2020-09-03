@@ -2,7 +2,7 @@
 
 An empty React/Typescript project that is meant to be used to kickstart new projects without spending too much time on all the initial configurations.
 
-## Additional packages / tech choices
+## Additional packages
 
 * Jest - Testing library used
 
