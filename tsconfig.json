@@ -1,6 +1,9 @@
 {
     "compilerOptions": {
         "outDir": "./dist/",
+	"paths": {
+	  "~*": ["./src/*"]
+	},
         "sourceMap": true,
         "strict": true,
         "noImplicitReturns": true,
